@@ -1,11 +1,11 @@
-MapleStorySet6Set6	04-08-23
+MapleStorySet6	04-08-23
 plugins/MapleStorySet6/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/plugininfo.txt	266970
 plugins/MapleStorySet6/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/pluginpreferences.txt	298297
 plugins/MapleStorySet6/version.txt	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/version.txt	33065
-plugins/MapleStorySet6/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/sets/carddata.txt	7105678
+plugins/MapleStorySet6/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/sets/carddata.txt	2645127
 plugins/MapleStorySet6/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/sets/setimages/general/cardback.jpg	1325763
 plugins/MapleStorySet6/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/sets/setimages/general/spawned.jpg	-12880
-plugins/MapleStorySet6/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/CardImageURLs1.txt	4075800
+plugins/MapleStorySet6/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/CardImageURLs1.txt	5355540
 plugins/MapleStorySet6/decks/Japanese_Starter_01_MW.dek	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/decks/Japanese_Starter_01_MW.dek	275541
 plugins/MapleStorySet6/decks/Japanese_Starter_02_BT.dek	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/decks/Japanese_Starter_02_BT.dek	269668
 plugins/MapleStorySet6/decks/Starter_Deck_01_Thief.dek	https://raw.githubusercontent.com/wishmstr/MapleStorySet6/main/decks/Starter_Deck_01_Thief.dek	225903
