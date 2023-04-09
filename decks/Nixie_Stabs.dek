@@ -1,0 +1,50 @@
+<deck version="0.8">
+	<meta>
+		<game>MapleStory</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="battlebow">Battle Bow</name><set>Set1</set></card>
+		<card><name id="battlebow">Battle Bow</name><set>Set1</set></card>
+		<card><name id="battlebow">Battle Bow</name><set>Set1</set></card>
+		<card><name id="bluediros">Blue Diros</name><set>Set1</set></card>
+		<card><name id="bluediros">Blue Diros</name><set>Set1</set></card>
+		<card><name id="blackrobinhat">Black Robin Hat</name><set>Set1</set></card>
+		<card><name id="blackrobinhat">Black Robin Hat</name><set>Set1</set></card>
+		<card><name id="stirge">Stirge</name><set>Set1</set></card>
+		<card><name id="stirge">Stirge</name><set>Set1</set></card>
+		<card><name id="tweeter">Tweeter</name><set>Set5</set></card>
+		<card><name id="tweeter">Tweeter</name><set>Set5</set></card>
+		<card><name id="drake">Drake</name><set>Set1</set></card>
+		<card><name id="greentrixter">Green Trixter</name><set>Set1</set></card>
+		<card><name id="greentrixter">Green Trixter</name><set>Set1</set></card>
+		<card><name id="greentrixter">Green Trixter</name><set>Set1</set></card>
+		<card><name id="hornedmushroom">Horned Mushroom</name><set>Set1</set></card>
+		<card><name id="hornedmushroom">Horned Mushroom</name><set>Set1</set></card>
+		<card><name id="hornedmushroom">Horned Mushroom</name><set>Set1</set></card>
+		<card><name id="hornedmushroom">Horned Mushroom</name><set>Set1</set></card>
+		<card><name id="curseeye">Curse Eye</name><set>Set1</set></card>
+		<card><name id="curseeye">Curse Eye</name><set>Set1</set></card>
+		<card><name id="curseeye">Curse Eye</name><set>Set1</set></card>
+		<card><name id="curseeye">Curse Eye</name><set>Set1</set></card>
+		<card><name id="jrboogie">Jr. Boogie</name><set>Set5</set></card>
+		<card><name id="jrboogie">Jr. Boogie</name><set>Set5</set></card>
+		<card><name id="jrboogie">Jr. Boogie</name><set>Set5</set></card>
+		<card><name id="hector">Hector</name><set>Set1</set></card>
+		<card><name id="hector">Hector</name><set>Set1</set></card>
+		<card><name id="platoonchronos">Platoon Chronos</name><set>Set1</set></card>
+		<card><name id="platoonchronos">Platoon Chronos</name><set>Set1</set></card>
+		<card><name id="soularrow">Soul Arrow</name><set>Set1</set></card>
+		<card><name id="soularrow">Soul Arrow</name><set>Set1</set></card>
+		<card><name id="powerknockback">Power Knock-Back</name><set>Set5</set></card>
+		<card><name id="powerknockback">Power Knock-Back</name><set>Set5</set></card>
+		<card><name id="powerknockback">Power Knock-Back</name><set>Set5</set></card>
+		<card><name id="arrowblow">Arrow Blow</name><set>Set1</set></card>
+		<card><name id="arrowblow">Arrow Blow</name><set>Set1</set></card>
+		<card><name id="arrowblow">Arrow Blow</name><set>Set1</set></card>
+		<card><name id="focus">Focus</name><set>Set1</set></card>
+		<card><name id="focus">Focus</name><set>Set1</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="nixie">Nixie</name><set>Set1</set></card>
+	</superzone>
+</deck>

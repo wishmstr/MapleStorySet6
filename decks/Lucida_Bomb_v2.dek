@@ -1,0 +1,59 @@
+<deck version="0.8">
+	<meta>
+		<game>MapleStory</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="lucida">Lucida</name><set>Set1</set></card>
+		<card><name id="lucida">Lucida</name><set>Set1</set></card>
+		<card><name id="lucida">Lucida</name><set>Set1</set></card>
+		<card><name id="lucida">Lucida</name><set>Set1</set></card>
+		<card><name id="heal">Heal</name><set>Set1</set></card>
+		<card><name id="heal">Heal</name><set>Set1</set></card>
+		<card><name id="boostedheal">Boosted Heal</name><set>Set2</set></card>
+		<card><name id="boostedheal">Boosted Heal</name><set>Set2</set></card>
+		<card><name id="panda">Panda</name><set>Set1</set></card>
+		<card><name id="panda">Panda</name><set>Set1</set></card>
+		<card><name id="panda">Panda</name><set>Set1</set></card>
+		<card><name id="panda">Panda</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="knowledgeispower">Knowledge Is Power</name><set>Set1</set></card>
+		<card><name id="knowledgeispower">Knowledge Is Power</name><set>Set1</set></card>
+		<card><name id="knowledgeispower">Knowledge Is Power</name><set>Set1</set></card>
+		<card><name id="knowledgeispower">Knowledge Is Power</name><set>Set1</set></card>
+		<card><name id="improvinghprecovery">Improving HP Recovery</name><set>Set5</set></card>
+		<card><name id="improvinghprecovery">Improving HP Recovery</name><set>Set5</set></card>
+		<card><name id="improvinghprecovery">Improving HP Recovery</name><set>Set5</set></card>
+		<card><name id="improvinghprecovery">Improving HP Recovery</name><set>Set5</set></card>
+		<card><name id="coldbeam">Cold Beam</name><set>Set3</set></card>
+		<card><name id="coldbeam">Cold Beam</name><set>Set3</set></card>
+		<card><name id="coldbeam">Cold Beam</name><set>Set3</set></card>
+		<card><name id="coldbeam">Cold Beam</name><set>Set3</set></card>
+		<card><name id="training">Training</name><set>Set2</set></card>
+		<card><name id="training">Training</name><set>Set2</set></card>
+		<card><name id="training">Training</name><set>Set2</set></card>
+		<card><name id="training">Training</name><set>Set2</set></card>
+		<card><name id="icesentinel">Ice Sentinel</name><set>Set5</set></card>
+		<card><name id="icesentinel">Ice Sentinel</name><set>Set5</set></card>
+		<card><name id="icesentinel">Ice Sentinel</name><set>Set5</set></card>
+		<card><name id="icesentinel">Ice Sentinel</name><set>Set5</set></card>
+		<card><name id="pull">Pull</name><set>Set1</set></card>
+		<card><name id="pull">Pull</name><set>Set1</set></card>
+		<card><name id="beginnersbolt">Beginner&apos;s Bolt</name><set>Set5</set></card>
+		<card><name id="beginnersbolt">Beginner&apos;s Bolt</name><set>Set5</set></card>
+		<card><name id="energybolt">Energy Bolt</name><set>Set1</set></card>
+		<card><name id="energybolt">Energy Bolt</name><set>Set1</set></card>
+		<card><name id="rookieenergybolt">Rookie Energy Bolt</name><set>Set3</set></card>
+		<card><name id="rookieenergybolt">Rookie Energy Bolt</name><set>Set3</set></card>
+		<card><name id="sidequest">Side Quest</name><set>Set1</set></card>
+		<card><name id="sidequest">Side Quest</name><set>Set1</set></card>
+		<card><name id="thunderbolt">Thunder Bolt</name><set>Set1</set></card>
+		<card><name id="thunderbolt">Thunder Bolt</name><set>Set1</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="fangblade">Fangblade</name><set>Set5</set></card>
+		<card><name id="maya">Maya</name><set>Set1</set></card>
+	</superzone>
+</deck>

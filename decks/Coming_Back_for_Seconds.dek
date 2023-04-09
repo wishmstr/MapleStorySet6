@@ -1,0 +1,50 @@
+<deck version="0.8">
+	<meta>
+		<game>MapleStory</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="serpentstongue">Serpent&apos;s Tongue</name><set>Set1</set></card>
+		<card><name id="battleshield">Battle Shield</name><set>Set1</set></card>
+		<card><name id="battleshield">Battle Shield</name><set>Set1</set></card>
+		<card><name id="battleshield">Battle Shield</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="doombringer">Doombringer</name><set>Set1</set></card>
+		<card><name id="stonegolem">Stone Golem</name><set>Set1</set></card>
+		<card><name id="stonegolem">Stone Golem</name><set>Set1</set></card>
+		<card><name id="pepe">Pepe</name><set>Set1</set></card>
+		<card><name id="pepe">Pepe</name><set>Set1</set></card>
+		<card><name id="pepe">Pepe</name><set>Set1</set></card>
+		<card><name id="pepe">Pepe</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="yetipepe">Yeti and Pepe</name><set>Set1</set></card>
+		<card><name id="yetipepe">Yeti and Pepe</name><set>Set1</set></card>
+		<card><name id="yetipepe">Yeti and Pepe</name><set>Set1</set></card>
+		<card><name id="greenmushroom">Green Mushroom</name><set>Set1</set></card>
+		<card><name id="greenmushroom">Green Mushroom</name><set>Set1</set></card>
+		<card><name id="greenmushroom">Green Mushroom</name><set>Set1</set></card>
+		<card><name id="greenmushroom">Green Mushroom</name><set>Set1</set></card>
+		<card><name id="jryeti">Jr. Yeti</name><set>Set1</set></card>
+		<card><name id="jryeti">Jr. Yeti</name><set>Set1</set></card>
+		<card><name id="jryeti">Jr. Yeti</name><set>Set1</set></card>
+		<card><name id="jryeti">Jr. Yeti</name><set>Set1</set></card>
+		<card><name id="grizzly">Grizzly</name><set>Set1</set></card>
+		<card><name id="grizzly">Grizzly</name><set>Set1</set></card>
+		<card><name id="officerskeleton">Officer Skeleton</name><set>Set1</set></card>
+		<card><name id="officerskeleton">Officer Skeleton</name><set>Set1</set></card>
+		<card><name id="fireboar">Fire Boar</name><set>Set1</set></card>
+		<card><name id="fireboar">Fire Boar</name><set>Set1</set></card>
+		<card><name id="fireboar">Fire Boar</name><set>Set1</set></card>
+		<card><name id="fireboar">Fire Boar</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="starblade">Starblade</name><set>Set1</set></card>
+	</superzone>
+</deck>

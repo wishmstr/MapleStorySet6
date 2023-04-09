@@ -1,0 +1,54 @@
+<deck version="0.8">
+	<meta>
+		<game>MapleStory</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="finalattack">Final Attack: Bow</name><set>Set2</set></card>
+		<card><name id="finalattack">Final Attack: Bow</name><set>Set2</set></card>
+		<card><name id="finalattack">Final Attack: Bow</name><set>Set2</set></card>
+		<card><name id="finalattack">Final Attack: Bow</name><set>Set2</set></card>
+		<card><name id="goldtitans">Gold Titans</name><set>Set5</set></card>
+		<card><name id="goldtitans">Gold Titans</name><set>Set5</set></card>
+		<card><name id="mithrilwristband">Mithril Wristband</name><set>Set4</set></card>
+		<card><name id="mithrilwristband">Mithril Wristband</name><set>Set4</set></card>
+		<card><name id="omoktable">Omok Table</name><set>Set2</set></card>
+		<card><name id="omoktable">Omok Table</name><set>Set2</set></card>
+		<card><name id="poisonousmushroom">Poisonous Mushroom</name><set>Set2</set></card>
+		<card><name id="poisonousmushroom">Poisonous Mushroom</name><set>Set2</set></card>
+		<card><name id="poisonousmushroom">Poisonous Mushroom</name><set>Set2</set></card>
+		<card><name id="cico">Cico</name><set>Set1</set></card>
+		<card><name id="cico">Cico</name><set>Set1</set></card>
+		<card><name id="cico">Cico</name><set>Set1</set></card>
+		<card><name id="darknoel">Dark Noel</name><set>Set5</set></card>
+		<card><name id="darknoel">Dark Noel</name><set>Set5</set></card>
+		<card><name id="bluemushroom">Blue Mushroom</name><set>Set2</set></card>
+		<card><name id="bluemushroom">Blue Mushroom</name><set>Set2</set></card>
+		<card><name id="bluemushroom">Blue Mushroom</name><set>Set2</set></card>
+		<card><name id="crow">Crow</name><set>Set3</set></card>
+		<card><name id="crow">Crow</name><set>Set3</set></card>
+		<card><name id="crow">Crow</name><set>Set3</set></card>
+		<card><name id="blackmagicshoes">Black Magic Shoes</name><set>Set2</set></card>
+		<card><name id="blackmagicshoes">Black Magic Shoes</name><set>Set2</set></card>
+		<card><name id="blackmagicshoes">Black Magic Shoes</name><set>Set2</set></card>
+		<card><name id="blackmagicshoes">Black Magic Shoes</name><set>Set2</set></card>
+		<card><name id="jrnecki">Jr. Necki</name><set>Set1</set></card>
+		<card><name id="jrnecki">Jr. Necki</name><set>Set1</set></card>
+		<card><name id="jrnecki">Jr. Necki</name><set>Set1</set></card>
+		<card><name id="tweeter">Tweeter</name><set>Set5</set></card>
+		<card><name id="tweeter">Tweeter</name><set>Set5</set></card>
+		<card><name id="birthdaypresent">Birthday Present</name><set>Set5</set></card>
+		<card><name id="birthdaypresent">Birthday Present</name><set>Set5</set></card>
+		<card><name id="birthdaypresent">Birthday Present</name><set>Set5</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="ivan">Ivan</name><set>Set1</set></card>
+		<card><name id="ivan19712">Ivan19712</name><set>Set5</set></card>
+		<card><name id="michi">Michi</name><set>Set4</set></card>
+		<card><name id="mistmoon">Mistmoon</name><set>Set1</set></card>
+		<card><name id="nova">Nova</name><set>Set2</set></card>
+	</superzone>
+</deck>

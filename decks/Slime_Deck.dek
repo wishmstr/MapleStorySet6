@@ -1,0 +1,50 @@
+<deck version="0.8">
+	<meta>
+		<game>MapleStory</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="goozoo">Goo Zoo</name><set>Set5</set></card>
+		<card><name id="goozoo">Goo Zoo</name><set>Set5</set></card>
+		<card><name id="goozoo">Goo Zoo</name><set>Set5</set></card>
+		<card><name id="bubbling">Bubbling</name><set>Set2</set></card>
+		<card><name id="streetslime">Street Slime</name><set>Set4</set></card>
+		<card><name id="devilslime">Devil Slime</name><set>Set2</set></card>
+		<card><name id="cubeslime">Cube Slime</name><set>Set5</set></card>
+		<card><name id="redslime">Red Slime</name><set>Set3</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="kingslime">King Slime</name><set>Set2</set></card>
+		<card><name id="doublestrike">Double Strike</name><set>Set1</set></card>
+		<card><name id="doublestrike">Double Strike</name><set>Set1</set></card>
+		<card><name id="leftbehind">Left Behind</name><set>Set5</set></card>
+		<card><name id="leftbehind">Left Behind</name><set>Set5</set></card>
+		<card><name id="leftbehind">Left Behind</name><set>Set5</set></card>
+		<card><name id="stun">Stun</name><set>Set2</set></card>
+		<card><name id="callofthewild">Call of the Wild</name><set>Set3</set></card>
+		<card><name id="wardofawakening">Ward Of Awakening</name><set>Set2</set></card>
+		<card><name id="bluenightfox">Blue NightFox</name><set>Set1</set></card>
+		<card><name id="goldtitans">Gold Titans</name><set>Set5</set></card>
+		<card><name id="diamonddagger">Diamond Dagger</name><set>Set4</set></card>
+		<card><name id="diamonddagger">Diamond Dagger</name><set>Set4</set></card>
+		<card><name id="halfmoonzamadar">Halfmoon Zamadar</name><set>Set3</set></card>
+		<card><name id="halfmoonzamadar">Halfmoon Zamadar</name><set>Set3</set></card>
+		<card><name id="halfmoonzamadar">Halfmoon Zamadar</name><set>Set3</set></card>
+		<card><name id="explodingmesobags">Exploding Meso Bags</name><set>Set5</set></card>
+		<card><name id="explodingmesobags">Exploding Meso Bags</name><set>Set5</set></card>
+		<card><name id="explodingmesobags">Exploding Meso Bags</name><set>Set5</set></card>
+		<card><name id="explodingmesobags">Exploding Meso Bags</name><set>Set5</set></card>
+		<card><name id="kumbithrowingstar">Kumbi Throwing Star</name><set>Set1</set></card>
+		<card><name id="rednight">Red Night</name><set>Set1</set></card>
+		<card><name id="watchhog">Watch Hog</name><set>Set3</set></card>
+		<card><name id="watchhog">Watch Hog</name><set>Set3</set></card>
+		<card><name id="eurekthealchemist">Eurek the Alchemist</name><set>Set4</set></card>
+		<card><name id="eurekthealchemist">Eurek the Alchemist</name><set>Set4</set></card>
+		<card><name id="zombiemushroom">Zombie Mushroom</name><set>Set3</set></card>
+		<card><name id="zombiemushroom">Zombie Mushroom</name><set>Set3</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="michi">Michi</name><set>Set4</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,25 @@
+3	Goo Zoo
+1	Bubbling
+1	Street Slime
+1	Devil Slime
+1	Cube Slime
+1	Red Slime
+4	Slime
+1	King Slime
+2	Double Strike
+3	Left Behind
+1	Stun
+1	Call of the Wild
+1	Ward Of Awakening
+1	Blue NightFox
+1	Gold Titans
+2	Diamond Dagger
+3	Halfmoon Zamadar
+4	Exploding Meso Bags
+1	Kumbi Throwing Star
+1	Red Night
+2	Watch Hog
+2	Eurek the Alchemist
+2	Zombie Mushroom
+Starting:
+1	Michi

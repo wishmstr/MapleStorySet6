@@ -1,0 +1,50 @@
+<deck version="0.8">
+	<meta>
+		<game>MapleStory</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="redapprenticehat">Red Apprentice Hat</name><set>Set1</set></card>
+		<card><name id="redapprenticehat">Red Apprentice Hat</name><set>Set1</set></card>
+		<card><name id="redapprenticehat">Red Apprentice Hat</name><set>Set1</set></card>
+		<card><name id="redapprenticehat">Red Apprentice Hat</name><set>Set1</set></card>
+		<card><name id="sidequest">Side Quest</name><set>Set1</set></card>
+		<card><name id="sidequest">Side Quest</name><set>Set1</set></card>
+		<card><name id="sidequest">Side Quest</name><set>Set1</set></card>
+		<card><name id="sidequest">Side Quest</name><set>Set1</set></card>
+		<card><name id="energybolt">Energy Bolt</name><set>Set1</set></card>
+		<card><name id="energybolt">Energy Bolt</name><set>Set1</set></card>
+		<card><name id="energybolt">Energy Bolt</name><set>Set1</set></card>
+		<card><name id="energybolt">Energy Bolt</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="resting">Resting</name><set>Set1</set></card>
+		<card><name id="thunderbolt">Thunder Bolt</name><set>Set1</set></card>
+		<card><name id="thunderbolt">Thunder Bolt</name><set>Set1</set></card>
+		<card><name id="thunderbolt">Thunder Bolt</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="zombielupin">Zombie Lupin</name><set>Set1</set></card>
+		<card><name id="zombielupin">Zombie Lupin</name><set>Set1</set></card>
+		<card><name id="wildboar">Wild Boar</name><set>Set1</set></card>
+		<card><name id="wildboar">Wild Boar</name><set>Set1</set></card>
+		<card><name id="wildboar">Wild Boar</name><set>Set1</set></card>
+		<card><name id="wildboar">Wild Boar</name><set>Set1</set></card>
+		<card><name id="lioner">Lioner</name><set>Set1</set></card>
+		<card><name id="lioner">Lioner</name><set>Set1</set></card>
+		<card><name id="jrnecki">Jr. Necki</name><set>Set1</set></card>
+		<card><name id="jrnecki">Jr. Necki</name><set>Set1</set></card>
+		<card><name id="lucida">Lucida</name><set>Set1</set></card>
+		<card><name id="bellflowerroot">Bellflower Root</name><set>Set1</set></card>
+		<card><name id="bellflowerroot">Bellflower Root</name><set>Set1</set></card>
+		<card><name id="magicclaw">Magic Claw</name><set>Set1</set></card>
+		<card><name id="magicclaw">Magic Claw</name><set>Set1</set></card>
+		<card><name id="magicclaw">Magic Claw</name><set>Set1</set></card>
+		<card><name id="magicclaw">Magic Claw</name><set>Set1</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="stormwind">Stormwind</name><set>Set1</set></card>
+	</superzone>
+</deck>

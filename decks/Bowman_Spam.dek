@@ -1,0 +1,76 @@
+<deck version="0.8">
+	<meta>
+		<game>MapleStory</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="bluemushroom">Blue Mushroom</name><set>Set2</set></card>
+		<card><name id="bluemushroom">Blue Mushroom</name><set>Set2</set></card>
+		<card><name id="bluemushroom">Blue Mushroom</name><set>Set2</set></card>
+		<card><name id="bluemushroom">Blue Mushroom</name><set>Set2</set></card>
+		<card><name id="mia">Mia</name><set>Set4</set></card>
+		<card><name id="mia">Mia</name><set>Set4</set></card>
+		<card><name id="mia">Mia</name><set>Set4</set></card>
+		<card><name id="mia">Mia</name><set>Set4</set></card>
+		<card><name id="stirge">Stirge</name><set>Set1</set></card>
+		<card><name id="stirge">Stirge</name><set>Set1</set></card>
+		<card><name id="stirge">Stirge</name><set>Set1</set></card>
+		<card><name id="stirge">Stirge</name><set>Set1</set></card>
+		<card><name id="hornedmushroom">Horned Mushroom</name><set>Set1</set></card>
+		<card><name id="hornedmushroom">Horned Mushroom</name><set>Set1</set></card>
+		<card><name id="hornedmushroom">Horned Mushroom</name><set>Set1</set></card>
+		<card><name id="hornedmushroom">Horned Mushroom</name><set>Set1</set></card>
+		<card><name id="killabee">Killa Bee</name><set>Set4</set></card>
+		<card><name id="killabee">Killa Bee</name><set>Set4</set></card>
+		<card><name id="killabee">Killa Bee</name><set>Set4</set></card>
+		<card><name id="killabee">Killa Bee</name><set>Set4</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="blackbunny">Black Bunny</name><set>Set3</set></card>
+		<card><name id="blackbunny">Black Bunny</name><set>Set3</set></card>
+		<card><name id="blackbunny">Black Bunny</name><set>Set3</set></card>
+		<card><name id="blackbunny">Black Bunny</name><set>Set3</set></card>
+		<card><name id="petelephant">Pet Elephant</name><set>Set5</set></card>
+		<card><name id="petelephant">Pet Elephant</name><set>Set5</set></card>
+		<card><name id="petelephant">Pet Elephant</name><set>Set5</set></card>
+		<card><name id="petelephant">Pet Elephant</name><set>Set5</set></card>
+		<card><name id="mapleshield">Maple Shield</name><set>Set3</set></card>
+		<card><name id="mapleshield">Maple Shield</name><set>Set3</set></card>
+		<card><name id="mapleshield">Maple Shield</name><set>Set3</set></card>
+		<card><name id="mapleshield">Maple Shield</name><set>Set3</set></card>
+		<card><name id="studdedpolearm">Studded Pole Arm</name><set>Set5</set></card>
+		<card><name id="studdedpolearm">Studded Pole Arm</name><set>Set5</set></card>
+		<card><name id="studdedpolearm">Studded Pole Arm</name><set>Set5</set></card>
+		<card><name id="studdedpolearm">Studded Pole Arm</name><set>Set5</set></card>
+		<card><name id="ribbonpig">Ribbon Pig</name><set>Set1</set></card>
+		<card><name id="ribbonpig">Ribbon Pig</name><set>Set1</set></card>
+		<card><name id="ribbonpig">Ribbon Pig</name><set>Set1</set></card>
+		<card><name id="ribbonpig">Ribbon Pig</name><set>Set1</set></card>
+		<card><name id="greenmushroom">Green Mushroom</name><set>Set1</set></card>
+		<card><name id="greenmushroom">Green Mushroom</name><set>Set1</set></card>
+		<card><name id="greenmushroom">Green Mushroom</name><set>Set1</set></card>
+		<card><name id="greenmushroom">Green Mushroom</name><set>Set1</set></card>
+		<card><name id="devilslime">Devil Slime</name><set>Set2</set></card>
+		<card><name id="devilslime">Devil Slime</name><set>Set2</set></card>
+		<card><name id="devilslime">Devil Slime</name><set>Set2</set></card>
+		<card><name id="devilslime">Devil Slime</name><set>Set2</set></card>
+		<card><name id="woodenmask">Wooden Mask</name><set>Set4</set></card>
+		<card><name id="woodenmask">Wooden Mask</name><set>Set4</set></card>
+		<card><name id="woodenmask">Wooden Mask</name><set>Set4</set></card>
+		<card><name id="woodenmask">Wooden Mask</name><set>Set4</set></card>
+		<card><name id="wildboar">Wild Boar</name><set>Set1</set></card>
+		<card><name id="wildboar">Wild Boar</name><set>Set1</set></card>
+		<card><name id="wildboar">Wild Boar</name><set>Set1</set></card>
+		<card><name id="wildboar">Wild Boar</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+		<card><name id="slime">Slime</name><set>Set1</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="sherman">Sherman</name><set>Set1</set></card>
+		<card><name id="starblade">Starblade</name><set>Set1</set></card>
+		<card><name id="moby">Moby</name><set>Set3</set></card>
+	</superzone>
+</deck>
